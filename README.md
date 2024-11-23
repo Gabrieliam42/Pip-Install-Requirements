@@ -4,7 +4,7 @@
 * It also updates pip itself(Python Package Installer).
 * Then the script detects the requirements.txt file in the current working directory and installs the needed modules for a given project.
 
-The purpose of the script is to save time when you need to test multiple projects.
+The purpose of the script is to save time when you need to test multiple Python projects.
 
 
 This Python script has been compiled as a executable file and works on Windows operating systems.
