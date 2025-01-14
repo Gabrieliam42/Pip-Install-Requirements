@@ -1,7 +1,7 @@
 # Pip-Install-Requirements
 
 * The script 'Pip Install Requirements' detects and activates any Python Virtual Environment if one is present in the current working directory.
-* It updates pip itself(Python Package Installer).
+* It then updates pip itself(Python Package Installer).
 * Then the script detects the requirements.txt file in the current working directory and installs the needed modules for a given project.
 
 The purpose of the script is to save time when you need to test multiple Python projects.
